@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Control.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Managers\ControllerManager.cs" Line="124" Column="23" />
+      <File FileName="Assets\Scripts\Managers\NewCustomInputManager.cs" Line="954" Column="38" />
+      <File FileName="Assets\Editor\NewCustomInputManagerEditor.cs" Line="109" Column="4" />
+      <File FileName="Assets\Scripts\Control.cs" Line="10" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

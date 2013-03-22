@@ -1,0 +1,17 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.9573]
+    Renderer: NVIDIA GeForce GTX 560 Ti  
+    Vendor:   NVIDIA
+    VRAM:     993 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.5f2
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Garrett\Desktop\Eddo\VietnamRomance_Aug22\VietnamRomance\TestBuilds\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Garrett\Desktop\Eddo\VietnamRomance_Aug22\VietnamRomance\TestBuilds\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Garrett\Desktop\Eddo\VietnamRomance_Aug22\VietnamRomance\TestBuilds\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Garrett\Desktop\Eddo\VietnamRomance_Aug22\VietnamRomance\TestBuilds\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.111 seconds
