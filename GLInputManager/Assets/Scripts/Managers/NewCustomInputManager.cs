@@ -2165,6 +2165,8 @@ public class NewCustomInputManager : MonoBehaviour {
 	#endregion
 	
 	#region Singleton Functions
+	//TODO: Make into "self" variable
+	
 	//returns a reference to this manager - and creates it if it was never created
 	public static NewCustomInputManager GetReference(){
 		if(_selfReference == null){
