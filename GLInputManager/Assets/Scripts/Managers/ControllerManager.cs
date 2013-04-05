@@ -805,6 +805,7 @@ public class ControllerManager : MonoBehaviour{
 		return JoyCode.None;
 	}
 	
+	//todo: turn this into self
 	//returns a reference to this controllerManager
 	public static ControllerManager GetReference(){
 		if(_selfReference == null) throw new UnityException("Controller Manager is not included in the scene");
